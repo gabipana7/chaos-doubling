@@ -25,7 +25,8 @@ $$
 $$
 
 Period-doubling
-![RK4doubling](https://user-images.githubusercontent.com/72228598/189374308-63553092-3ad7-40f9-be08-ce60240d3301.png)
+![RK4doubling2](https://user-images.githubusercontent.com/72228598/189376488-70e98ef0-1636-41cc-ba5b-e24b11411188.png)
+
 
 Bifurcation diagram for component y
 ![y(c)](https://user-images.githubusercontent.com/72228598/189374406-4c1b28c9-2d65-4fe9-b017-210944abfce4.png)
