@@ -27,6 +27,6 @@ $$
 
 $$
 \begin{align}
-  \frac{\partial u}{\partial t} = -u\frac{\partial u}{\partial x} - \frac{\partial^2 u}{\partial x^2} - \mu \frac{\partial^4 u}{\partial x^r}
+  \frac{\partial u}{\partial t} = -u\frac{\partial u}{\partial x} - \frac{\partial^2 u}{\partial x^2} - \nu \frac{\partial^4 u}{\partial x^r}
 \end{align}
 $$
