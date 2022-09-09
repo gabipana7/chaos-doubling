@@ -49,3 +49,6 @@ Chaotic
 
 Transition from Periodic to Chaotic
 ![KSbifurcation](https://user-images.githubusercontent.com/72228598/189374746-dd51b591-12fc-4763-889d-05740b7026e8.png)
+
+---
+Article describing the work is found as conference proceeding: *waiting to be published*
