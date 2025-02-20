@@ -53,4 +53,5 @@ Transition from Periodic to Chaotic
 
 ---
 This toolbox comes as support for the conference proceeding: [Transition to chaos through period doubling bifurcations in maps, ODEs and PDEs](https://doi.org/10.1063/5.0150575)
+
 Cite as: G. T. Pana V. Baran and A. Nicolin, Transition to chaos through period doubling bifurcations in maps, ODEs and PDEs, AIP Conf. Proc. 2843, 050008 (2023), https://doi.org/10.1063/5.0150575.
